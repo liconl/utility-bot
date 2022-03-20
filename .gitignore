@@ -1,0 +1,8 @@
+bot-env/
+.env
+.vscode/
+
+
+# Mongo caches 
+
+__pycache__
